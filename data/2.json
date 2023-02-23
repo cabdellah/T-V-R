@@ -1,10 +1,11 @@
 {
     "data":[
     {
-    "numberOfChannels":98,
+    "numberOfChannels":1,
     "channels":[
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_abudhabi.png",
+            "text":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/DZ_samira.png",
+            "imageRadio":"سميرة",
             "audio":"https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
-          }
+          }        
 ]}]}
