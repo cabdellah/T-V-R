@@ -1,13 +1,10 @@
 {
-  "data":[
+    "data":[
     {
-    "numberOfRadios":1,
-    "radioDATA":[ 
-      {
-        "titleRadio":"سميرة تي في",
-        "imageRadio":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/DZ_samira.png",
-        "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
-      }
+    "numberOfChannels":98,
+    "channels":[
+          {
+            "text":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_abudhabi.png",
+            "audio":"https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
+          }
 ]}]}
-  
-  
