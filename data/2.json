@@ -4,8 +4,8 @@
     "numberOfChannels":1,
     "channels":[
           {
-            "text":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/DZ_samira.png",
-            "imageRadio":"سميرة",
+            "text":"سميرة",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/DZ_samira.png",
             "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
           }        
 ]}]}
