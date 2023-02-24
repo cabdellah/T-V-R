@@ -1,32 +1,14 @@
 {
     "data":[
     {"title":"english",
-    "numberOfChannels":9,
+    "numberOfChannels":6,
     "channels":[
-      {
-        "text":"TCS",
-        "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_tsc.png",
-        "group-title":"Etats-Unis",
-        "audio":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/848.ts"
-      },
-      {
-        "text":"TCS",
-        "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_tsc.png",
-        "group-title":"Etats-Unis",
-        "audio":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/1129.ts"
-      },
-      {
-        "text":"TCS",
-        "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_tsc.png",
-        "group-title":"Etats-Unis",
-        "audio":"http://ourtv.live:8080/live/MediastarTV/MediastarTV/839.ts"
-      },
-      {
-        "text":"TCS",
-        "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_tsc.png",
-        "group-title":"Etats-Unis",
-        "audio":"https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8"
-      },
+          {
+            "text":"TCS",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_tsc.png",
+            "group-title":"Etats-Unis",
+            "audio":"https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8"
+          },
           {
             "text":"fox_news",
             "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_fox_news.png",
