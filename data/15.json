@@ -3,9 +3,10 @@
     {"title":"movies",
     "numberOfChannels":1,
     "channels":[
-          {
-            "text":"سميرة",
-            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/DZ_samira.png",
-            "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
-          }        
+      {
+        "text":"روتانا_سينما",
+        "image":"https://rotana.net/triAssets/uploads/2020/11/cinema.png",
+        "group-title":"Egypt",
+        "audio":"https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/880db548-4e3d-40c0-ae89-6eaf7d934d61:GRQ/variant/f4da4a7b7c5d0c2159ccb185452139d0/bandwidth/1500928.m3u8"
+      }      
 ]}]}

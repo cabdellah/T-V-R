@@ -3,9 +3,10 @@
     {"title":"comedy",
     "numberOfChannels":1,
     "channels":[
-          {
-            "text":"سميرة",
-            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/DZ_samira.png",
-            "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
-          }        
+      {
+        "text":"روتانا_كوميدي",
+        "image":"https://rotana.net/triAssets/uploads/2020/11/comedy.png",
+        "group-title":"Egypt",
+        "audio":"https://dai.google.com/linear/hls/pa/event/cH1Es-kjT9yxOW7P5ZUGTw/stream/ee07184f-932f-4715-bd3e-373f72687123:BRU/variant/4c65827b35e740303bd60662f344ada2/bandwidth/1496826.m3u8"
+      }       
 ]}]}
