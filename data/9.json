@@ -1,7 +1,7 @@
 {
     "data":[
     {"title":"portuguese",
-    "numberOfChannels":11,
+    "numberOfChannels":7,
     "channels":[
           {
             "text":"Brasil_Central",
@@ -15,30 +15,7 @@
             "group-title":"Brasil",
             "audio":"https://streaming.procergs.com.br:8443/tve/stve/chunklist_w1837585894.m3u8"
           },
-          {
-            "text":"TV_Brasil",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_tvb.png",
-            "group-title":"Brasil",
-            "audio":"https://stream-05.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvmWZsY2HRG8j3FNTqqowO77-DhhLsD96jKTT2vd1iXR)/dm/3/x82pp99/d/live-2.m3u8"
-          },
-          {
-            "text":"Com_Brasil",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_comb.png",
-            "group-title":"Brasil",
-            "audio":"https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w651670998.m3u8"
-          },
-          {
-            "text":"Tv_Gazeta",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_gazeta.png",
-            "group-title":"Brasil",
-            "audio":"https://stream-09.dc3.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v7Fs9mwvYSz70zp_wFrcX2h4CJHYDcs10EO3UKh2hrGY)/dm/3/x89qors/d/live-2.m3u8"
-          },
-          {
-            "text":"CNN_Brasil",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_cnn_b.png",
-            "group-title":"Brasil",
-            "audio":"https://youtu.be/dCP-klyBPHc"
-          },
+
           {
             "text":"TVe_eParana",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_eParana.png",

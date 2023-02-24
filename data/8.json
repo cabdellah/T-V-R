@@ -1,12 +1,30 @@
 {
     "data":[
     {"title":"malaysian",
-    "numberOfChannels":1,
+    "numberOfChannels":4,
     "channels":[
           {
-            "text":"Cinema_World",
-            "image":"https://i.imgur.com/gHCOcuF.png",
+            "text":"TV1",
+            "image":"http://tv1.rtm.gov.my/assets/img/logo3.png",
             "group-title":"Malaysia",
-            "audio":"http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8"
-          }     
+            "audio":"https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b1296000_slENG.m3u8?id=1"
+          },
+          {
+            "text":"TV2",
+            "image":"https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV2.jpg",
+            "group-title":"Malaysia",
+            "audio":"https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b1296000_slENG.m3u8?id=2"
+          },
+          {
+            "text":"OKEY",
+            "image":"https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg",
+            "group-title":"Malaysia",
+            "audio":"https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b1296000_slENG.m3u8?id=3"
+          },
+          {
+            "text":"TV6",
+            "image":"https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",
+            "group-title":"Malaysia",
+            "audio":"https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b1296000_slENG.m3u8?id=6"
+          }                                   
 ]}]}

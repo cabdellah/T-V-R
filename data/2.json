@@ -176,5 +176,11 @@
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_sbc.png",
             "group-title":"Arabie_Saoudite",
             "audio":"https://cllive.itworkscdn.net/sbclive/token=nva=1677247478~dirs=1~hash=06ae25e34595d24b06f16/sbc.smil/sbc_480p_chunks_dvr.m3u8"
-          }                          
+          },
+          {
+            "text":"الأردني",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_sbc.png",
+            "group-title":"Jordan",
+            "audio":"https://jrtv-live.ercdn.net/jordanhd/jordanhd_480p.m3u8?st=5rWdepoeMviFcdmygjsI_A&e=1677254923&P=Browser&C=Chrome&D=Desktop&CT=%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89&CTY=TV%20Channel"
+          }                                          
 ]}]}

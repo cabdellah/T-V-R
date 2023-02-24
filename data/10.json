@@ -1,14 +1,8 @@
 {
     "data":[
     {"title":"indian",
-    "numberOfChannels":10,
+    "numberOfChannels":2,
     "channels":[
-          {
-            "text":"DD_National",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_dd_national.png",
-            "group-title":"India",
-            "audio":"https://rr2---sn-5abxgpxuxaxjvh-j1as.googlevideo.com/videoplayback?expire=1674280637&ei=XSrLY6SUHtGRWpyShZgB&ip=105.107.94.241&id=0UtGWtPcOI4.2&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=lp&mm=44%2C29&mn=sn-5abxgpxuxaxjvh-j1as%2Csn-hpa7zne6&ms=lva%2Crdu&mv=m&mvi=2&pl=19&initcwndbps=455000&spc=zIddbN_SSoZyROEwI4-0evLaNESPGyfjzLN-W5-_BAsI&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=0nZCtgz9XPAgvNAAMGtANJAK&gir=yes&mt=1674258523&fvip=2&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=UfP-_Hdnv1AXyw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIgZCzZpdc4o3T-dnY_2LaAj3Eh8W6oaaCUSZnQ_lAhm1wCIQDHCCWb-8O1ZkFT6XeRCQtKGkpQAmjdm_qMAl4GgcyV1w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOYg3gayP4T8YUBBMeRCwXSfGlKdmXjk8_mDECiaN_toAiEAw7SJbjuK7En5nVBfo-tIr74N9lchr35OmzKB9Nqm7Yc%3D&alr=yes&cpn=CzwkSKpZgu47Ts..."
-          },
           {
             "text":"Aaj_Tak",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_aaj_tak.png",
@@ -16,51 +10,9 @@
             "audio":"https://aajtaklive-amd.akamaized.net/hls/live/2014416-b/aajtak/aajtaklive/live_404p/chunks.m3u8"
           },
           {
-            "text":"CNN_News",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_cnn_news.png",
-            "group-title":"India",
-            "audio":"https://rr3---sn-hpa7zn7d.googlevideo.com/videoplayback?expire=1674280922&ei=eivLY_2sC5fJxwK_spKIAg&ip=105.107.94.241&id=DjF5XT4DP-U.1&itag=135&aitags=133%2C134%2C135%2C136%2C160&source=yt_live_broadcast&requiressl=yes&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=vYC07RONCF3zzeYSCMPrcIoK&gir=yes&keepalive=yes&fexp=24007246&c=WEB&n=6nb1s2wgq7SVjTD&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAJsbC6jmtflpE5L6pOEdn5xXl2gahh5VGCqJVyWhFujlAiB4UwrlfM-wfaOXReMaPHjugixClR-zIpW1Lau6oZ-EBw%3D%3D&redirect_counter=1&cm2rm=sn-5abxgpxuxaxjvh-j1ae7z&req_id=255929a53a45a3ee&cms_redirect=yes&cmsv=e&mh=As&mm=29&mn=sn-hpa7zn7d&ms=rdu&mt=1674259053&mv=m&mvi=3&pl=19&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgWlvlvIzkJHaWbiS6BB7IXaDI3vxgRk2YtxNBCO12R7gCIGxrk6XRDKf7TcyLrZHtLGSlTikiWnNGIM8A81L_0cb-"
-          },
-          {
-            "text":"10_TV_India",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_10tv.png",
-            "group-title":"India",
-            "audio":"https://rr3---sn-5abxgpxuxaxjvh-j1ae.googlevideo.com/videoplayback?expire=1674280994&ei=wivLY8DxNMHL0wXQtrC4Aw&ip=105.107.94.241&id=PcTpDnGtNKE.4&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=qg&mm=44%2C29&mn=sn-5abxgpxuxaxjvh-j1ae%2Csn-hpa7znzr&ms=lva%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=467500&spc=zIddbAH9mFEx81q2BPrdFlNy51RifDWEuKA43XOvSgn_&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=4jCC5tDHNtQwHQ6jaPIdtO8K&gir=yes&mt=1674259004&fvip=1&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=mLdOMUT3YjDfpw&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAK7DaF2e0pr9lucKwSIDFu-WVe0LBOvVJeo_j6KdH860AiBN-UVJhGTuX-QsnZkU37tAIQ-73tmK40uKSm-6bMHd4A%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPOziTrpB-xuesCAfglTPkuRMX8qDcoDTwNrxeGeJXeWAiAguoPCVp5N6aUSeQZxOy7MES1Pe2u6Mj-r1fSuuDVNKQ%3D%3D&alr=yes&cpn=gbYYl2Ay11..."
-          },
-          {
             "text":"Public_TV",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_public.png",
             "group-title":"India",
             "audio":"https://livestream.knowtable.xyz:5443/show/streams/Publictv_480p1000kbps.m3u8"
-          },
-          {
-            "text":"Tv9_Gujarati",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_tv9_gujarati.png",
-            "group-title":"India",
-            "audio":"https://rr5---sn-hpa7zns6.googlevideo.com/videoplayback?expire=1674281273&ei=2SzLY_3REoTosALR5JGIAw&ip=105.107.94.241&id=lfpMUpkSvLg.6&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&spc=zIddbCeEGq7FHwDTnhzigq1A81P6LjiL2nLZGWjmiMRp&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=S53fzd4wU0pouXb9yZebBzQK&gir=yes&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=NaXYL6_YAOV8gnK&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRAIgOFWsHJd299YYtN8qmDsSs2QGQoenVcv9_XxKn9OPvAkCIH9IV5evviQ970y3Pzrqll13S3mDiiuY0YOMmNH64Csa&redirect_counter=1&cm2rm=sn-5abxgpxuxaxjvh-j1as7e&req_id=3b31c1820eca3ee&cms_redirect=yes&cmsv=e&mh=nE&mm=29&mn=sn-hpa7zns6&ms=rdu&mt=1674259540&mv=m&mvi=5&pl=19&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAPuZJ6Adj3CDyNMRSMDL6Nl6GCdE9nyaBHUJoMgWBsuKAiBr-yVKld1xf71uVn_BhjYveNX_Q-RJUAS2yXd3QMUL1A%3D%3D"
-          },
-          {
-            "text":"Kairali_TV",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_kairali.png",
-            "group-title":"India",
-            "audio":"https://rr5---sn-5abxgpxuxaxjvh-j1ae.googlevideo.com/videoplayback?expire=1674281399&ei=Vy3LY-bSJOrWxN8PqrO9oAQ&ip=105.107.94.241&id=K-OZ1WUMArA.5&itag=244&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=yt_live_broadcast&requiressl=yes&mh=G7&mm=44%2C29&mn=sn-5abxgpxuxaxjvh-j1ae%2Csn-hpa7kn7z&ms=lva%2Crdu&mv=m&mvi=5&pl=19&initcwndbps=443750&spc=zIddbCNp6Ly7Pgoxc-x_PYBSyuN8DoudFTickODbXiqP&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=GjXp64sl8X-AtRct5CRfcWkK&gir=yes&mt=1674259488&fvip=1&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=FfrkBDjIjklURA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJe9CzN9yxLZGGDxD9GkU95o-E0uVpFv4kKeXHRfXUoxAiEAg2kysGhuAiEK58Zq-WNF2aZ0sUgJFwugHUuXyTuqsMg%3D&alr=yes&sig=AOq0QJ8wRQIhAI6u8hh8SDe3yNms3NTYdUjoIuR3Ga8-cLLxnlOU0K4AAiANVpp6KZNvFwEDCFjzw7qaaGSVE-Yg3whDUjNo8Ypwgg%3D%3D&cpn=VDkpSkTESAWV5Xss&cver=1..."
-          },
-          {
-            "text":"BRICS_English",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_brics.png",
-            "group-title":"India",
-            "audio":"https://engbrics.mediacdn.ru/cdn/brics/english/tracks-v1a1/2023/01/21/00/11/30-06000.ts"
-          },
-          {
-            "text":"WION",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_wion.png",
-            "group-title":"India",
-            "audio":"https://dai.google.com/linear/hls/pa/event/x_dFvsORSZWERbxrltEk0g/stream/aeefca30-3b7d-46d4-85ef-984e0988ebeb:BRU/variant/9a02b64fdef4a97d39df7464fba83086/bandwidth/1258360.m3u8"
-          },
-          {
-            "text":"India_Today",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/IN_today.png",
-            "group-title":"India",
-            "audio":"https://rr3---sn-5abxgpxuxaxjvh-j1ae.googlevideo.com/videoplayback?expire=1674281840&ei=EC_LY-mNA4-yWeXGrcgB&ip=105.107.94.241&id=sYZtOFzM78M.1&itag=244&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=1W&mm=44%2C29&mn=sn-5abxgpxuxaxjvh-j1ae%2Csn-hpa7znzr&ms=lva%2Crdu&mv=m&mvi=3&pl=19&initcwndbps=460000&spc=zIddbB313DaXw_Zp58VoemykVNhOgqHlpQPhJGZ42VzL&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fwebm&ns=hf0VeZhBC9OeTbn6NCM5dWUK&gir=yes&mt=1674259963&fvip=3&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=vgtI5sudbiCWLA&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRgIhAOm-D83ghrJ8DPwvGvY1CAzicAanewU9pEAwzJxHsoT0AiEAxxl9ae2gpYWqDGf3EBnqrodde6IRtBeUC7FerIMM8UA%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgIhghZBA61UPbJbcaTeZZw1mP25istN8A52B59lCHFTICIA2owC2D6sHOX9ePm9Qi_Y4xyfkNuOpjrjaH4Oe_aVRG&alr=yes&cpn=a_UC1FlH7xu_PrKI&cver=..."
-          }                  
+          }                          
 ]}]}
