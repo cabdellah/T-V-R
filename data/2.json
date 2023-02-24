@@ -1,7 +1,7 @@
 {
     "data":[
     {"title":"arabic",
-    "numberOfChannels":31,
+    "numberOfChannels":29,
     "channels":[      
           {
             "text":"أبوظبي",
@@ -61,7 +61,7 @@
             "text":"الآن",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/UE_elan.png",
             "group-title":"Emirats_Arabes",
-            "audio":"https://stream-03.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xl2X799QBdhESIO7xZ535ZXcddygZPq5S-ev_I9JMtDw)/dm/3/x74wje5/s/live-2.m3u8"
+            "audio":"https://stream-01.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xifN54SpEJYGTjo3Rk2lemyBps6DOksoSK_ecJjl8O2l)/dm/3/x74wje5/s/live-1.m3u8"
           },          
           {
             "text":"سميرة",
@@ -118,75 +118,63 @@
             "audio":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
           },
           {
-            "text":"24",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/m24_maroc.png",
-            "group-title":"Mococco",
-            "audio":"https://www.maptvnews.ma/live/smil:OutStream1.smil/chunklist_w501697827_b850000_sleng.m3u8"
-          },
-          {
-            "text":"ثيلي",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/MA_teli.png",
-            "group-title":"Mococco",
-            "audio":"https://playback.akamaized.net/streams/27130247_8196478_lsi9ri88isg6wgxzy69_1/media/27130247_8196478_lsi9ri88isg6wgxzy69_1@1756000p.m3u8?dw=14400&ts=1673888400&hdnts=exp=1674064185~acl=/streams/27130247_8196478_lsi9ri88isg6wgxzy69_1/media*~hmac=354b24b717d53839cb36e5e47c561d7ab344231bbe84f53b0cc560eaf37bddc4"
-          },
-          {
             "text":"السعودية",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_saoudia.png",
             "group-title":"Arabie_Saoudite",
-            "audio":"https://cllive.itworkscdn.net/ksa1live/token=nva=1674319691~dirs=1~hash=0d3c2780aaab58766b1a1/ksa1.smil/ksa1_480p_chunks_dvr.m3u8"
+            "audio":"https://cllive.itworkscdn.net/ksa1live/token=nva=1677247161~dirs=1~hash=01384e0ed086fca7c5191/ksa1.smil/ksa1_480p_chunks_dvr.m3u8"
           },
           {
             "text":"الإخبارية",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_elikhbaria.png",
             "group-title":"Arabie_Saoudite",
-            "audio":"https://cllive.itworkscdn.net/ikhbariyalive/token=nva=1674320044~dirs=1~hash=02d3eddcd6fc72777583e/ikhbariya.smil/ikhbariya_480p_chunks_dvr.m3u8"
+            "audio":"https://cllive.itworkscdn.net/ikhbariyalive/token=nva=1677247207~dirs=1~hash=073701ce42ce19c8d64af/ikhbariya.smil/ikhbariya_480p_chunks_dvr.m3u8"
           },
           {
             "text":"ذكريات",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_dikraiat.png",
             "group-title":"Arabie_Saoudite",
-            "audio":"https://cllive.itworkscdn.net/zikrayatlive/token=nva=1674320271~dirs=1~hash=071bbf3de86e995387c49/zikrayat.smil/zikrayat_480p_chunks_dvr.m3u8"
+            "audio":"https://cllive.itworkscdn.net/zikrayatlive/token=nva=1677247254~dirs=1~hash=0f5e616c7e5aa0658540e/zikrayat.smil/zikrayat_480p_chunks_dvr.m3u8"
           },
           {
             "text":"الرياضية_1",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_ksa_sport_1.png",
             "group-title":"Arabie_Saoudite",
-            "audio":"https://cllive.itworkscdn.net/ksasports1live/token=nva=1674320459~dirs=1~hash=035db63a3d95ec8b768be/ksasports1.smil/ksasports1_480p_chunks_dvr.m3u8"
+            "audio":"https://cllive.itworkscdn.net/ksasports1live/token=nva=1677247291~dirs=1~hash=0a47c421255ef376ea3e4/ksasports1.smil/ksasports1_480p_chunks_dvr.m3u8"
           },
           {
             "text":"الرياضية_2",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_ksa_sport_2.png",
             "group-title":"Arabie_Saoudite",
-            "audio":"https://cllive.itworkscdn.net/ksasports2live/token=nva=1674320708~dirs=1~hash=07cc9ddceaaeaec9e59ae/ksasports2.smil/ksasports2_480p_chunks_dvr.m3u8"
+            "audio":"https://cllive.itworkscdn.net/ksasports2live/token=nva=1677247327~dirs=1~hash=0b6863ce0532765be4396/ksasports2.smil/ksasports2_480p_chunks_dvr.m3u8"
           },
           {
             "text":"الرياضية_3",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_ksa_sport_3.png",
             "group-title":"Arabie_Saoudite",
-            "audio":"https://cllive.itworkscdn.net/ksasports3live/token=nva=1674320685~dirs=1~hash=05f42d174d66c1560cc70/ksasports3.smil/ksasports3_480p_chunks_dvr.m3u8"
+            "audio":"https://cllive.itworkscdn.net/ksasports3live/token=nva=1677247358~dirs=1~hash=0cb9e8880e9dbcabf8057/ksasports3.smil/ksasports3_480p_chunks_dvr.m3u8"
           },
           {
             "text":"الرياضية_4",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_ksa_sport_4.png",
             "group-title":"Arabie_Saoudite",
-            "audio":"https://cllive.itworkscdn.net/ksasports3live/token=nva=1674320605~dirs=1~hash=0b5b93137aa0df62528bb/ksasports3.smil/ksasports3_480p_chunks_dvr.m3u8"
+            "audio":"https://cllive.itworkscdn.net/ksasports4live/token=nva=1677247387~dirs=1~hash=0bef729d64c9d8e901fb1/ksasports4.smil/ksasports4_480p_chunks_dvr.m3u8"
           },
           {
             "text":"القرآن_الكريم",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_Quoran.png",
             "group-title":"Arabie_Saoudite",
-            "audio":"https://cllive.itworkscdn.net/ksaquranlive/token=nva=1674320736~dirs=1~hash=0f704fd5bcdfe83880c9f/ksaquran.smil/ksaquran_480p_chunks_dvr.m3u8"
+            "audio":"https://cllive.itworkscdn.net/ksaquranlive/token=nva=1677247420~dirs=1~hash=0a9875918733d5d74351b/ksaquran.smil/ksaquran_480p_chunks_dvr.m3u8"
           },
           {
             "text":"السنة_النبوية",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_sonna.png",
             "group-title":"Arabie_Saoudite",
-            "audio":"https://cllive.itworkscdn.net/ksaquranlive/token=nva=1674320736~dirs=1~hash=0f704fd5bcdfe83880c9f/ksaquran.smil/ksaquran_480p_chunks_dvr.m3u8"
+            "audio":"https://cllive.itworkscdn.net/ksasunnalive/token=nva=1677247443~dirs=1~hash=00bcf2319f58efd14835b/ksasunna.smil/ksasunna_480p_chunks_dvr.m3u8"
           },
           {
             "text":"SBC",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_sbc.png",
             "group-title":"Arabie_Saoudite",
-            "audio":"https://cllive.itworkscdn.net/sbclive/token=nva=1674321890~dirs=1~hash=036d24f5e0c2a40d29c16/sbc.smil/sbc_480p_chunks_dvr.m3u8"
+            "audio":"https://cllive.itworkscdn.net/sbclive/token=nva=1677247478~dirs=1~hash=06ae25e34595d24b06f16/sbc.smil/sbc_480p_chunks_dvr.m3u8"
           }                          
 ]}]}
