@@ -1,11 +1,66 @@
 {
     "data":[
     {"title":"english",
-    "numberOfChannels":1,
+    "numberOfChannels":10,
     "channels":[
           {
-            "text":"سميرة",
-            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/DZ_samira.png",
-            "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
-          }        
+            "text":"TCS",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_tsc.png",
+            "group-title":"USA",
+            "audio":"https://tscamd.akamaized.net/hls/live/503340/TSCLive/video_1/video_1.m3u8"
+          },
+          {
+            "text":"fox_news",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_fox_news.png",
+            "group-title":"USA",
+            "audio":"https://fox-foxnewsnow-samsungus.amagi.tv/playlist480p.m3u8"
+          },
+          {
+            "text":"bloomberg",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_bloomberg.png",
+            "group-title":"USA",
+            "audio":"https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-2/Source-EUTVqvs-10000-1-sknn1p-BP-HD-5-N96E3tz8tVF7_live.m3u8"
+          },
+          {
+            "text":"daystar",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_daystar.png",
+            "group-title":"USA",
+            "audio":"https://bcsecurelivehls-i.akamaihd.net/hls/live/621275/1539097700001/master_480p.m3u8"
+          },
+          {
+            "text":"news_max",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_newsmax.png",
+            "group-title":"USA",
+            "audio":"https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8"
+          },
+          {
+            "text":"kron_4",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_kron_4.png",
+            "group-title":"USA",
+            "audio":"https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8"
+          },
+          {
+            "text":"qvc_style",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_qvc_style.png",
+            "group-title":"USA",
+            "audio":"http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8"
+          },
+          {
+            "text":"Fox Soccer",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_fox_soccer.png",
+            "group-title":"USA",
+            "audio":"https://rr5---sn-4g5edndd.googlevideo.com/videoplayback?expire=1674260343&ei=F9vKY8zvI4jKWcKam9gE&ip=105.107.94.241&id=o-AF3mcS1DJBKuwL2kNE0EbfTWnGX1qltI8R6DluP312H1&itag=135&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C298%2C302%2C394%2C395%2C396%2C397%2C398&source=youtube&requiressl=yes&spc=zIddbF9JGgeW-sScqr8ocTtLjrIPaUDIi7VZGWRsW7Gr&vprv=1&mime=video%2Fmp4&ns=xDXHpRe0k124jTODUXiKmfcK&gir=yes&clen=18710703&dur=859.459&lmt=1672030575273337&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&txp=5535434&n=5vDfvRAZJ3Z8aK0&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgYfke4m8GQH-EkhxRgqjDvCcD0ignNntOb0OW6TlJBjcCICKBDx2ZQ8N1Sc7SYSRci7bTvKzq198g9K4T1bYocmXx&cm2rm=sn-5abxgpxuxaxjvh-j1ae7k,sn-4g5edz7s&req_id=f0b51b7eec8ea3ee&redirect_counter=2&cms_redirect=yes&cmsv=e&mh=ld&mm=34&mn=sn-4g5edndd&ms=ltu&mt=1674238625&mv=m&mvi=5&pl=19&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgHDWkrKM_8MQvOD0FDnGFfBr-IJ5U_XOEA..."
+          },
+          {
+            "text":"Gol_tv",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_goltv.png",
+            "group-title":"USA",
+            "audio":"https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/mid/c.m3u8"
+          },
+          {
+            "text":"key_tv",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_key.png",
+            "group-title":"USA",
+            "audio":"http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8"
+          }                  
 ]}]}
