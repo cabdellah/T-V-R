@@ -254,25 +254,25 @@
             "text":"روتانا_سينما",
             "image":"https://rotana.net/triAssets/uploads/2020/11/cinema.png",
             "group-title":"Egypt",
-            "audio":"https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/880db548-4e3d-40c0-ae89-6eaf7d934d61:GRQ/variant/f4da4a7b7c5d0c2159ccb185452139d0/bandwidth/1500928.m3u8"
+            "audio":"https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/c563b2de-bad1-4ba4-a057-f3398bbe4ad2:BRU/variant/55ed7d5dc6971bcef5ca190977609e5b/bandwidth/997110.m3u8"
           },
           {
             "text":"روتانا_خليجي",
             "image":"https://rotana.net/triAssets/uploads/2020/11/khalijiat.png",
             "group-title":"Egypt",
-            "audio":"https://rr1---sn-qwx11t-j1al.googlevideo.com/videoplayback?expire=1677267806&ei=3qL4Y9PqPOLdmwf7nTQ&ip=41.220.151.138&id=ba0548b2434cab5d&itag=22&source=youtube&requiressl=yes&mh=xk&mm=31&mn=sn-qwx11t-j1al&ms=au&mv=m&mvi=1&pl=24&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=15.069&lmt=1676853477418326&mt=1677238390&txp=5532434&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgRKnw6FQORjkuJjK9N0AUBjMm8ZtRF43Eut2RPiAev-sCIQDSEDGW-UfH5nun-26mCssCAvjMVYC7pNeM10hRj6eXwg==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgVD6gb0cDiX65vaLD2Mjp-wgsJ29--y3fvZx74wzUyKcCIQDOTrO-g3rVVtc98Q1EfRgTkNQFaNJZM5p6-bDH6ib9RA==&cpn=rm9zdeaTW-6aWST8"
+            "audio":"https://dai.google.com/linear/hls/pa/event/Ow9HolmDThGX9-D9EOdrHw/stream/ef614fdb-059b-435d-b6cc-0eb3471e047b:GRQ/variant/388cb595dac653d63787c858dc80d998/bandwidth/1457252.m3u8"
           },
           {
             "text":"روتانا_أطفال",
             "image":"https://rotana.net/triAssets/uploads/2020/11/kids.png",
             "group-title":"Egypt",
-            "audio":"https://r5---sn-hgn7rnll.c.2mdn.net/videoplayback/id/cdad11bd52b8c081/itag/344/source/web_video_ads/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3808053372/sparams/acao,ctier,expire,id,ip,ipbits,itag,mh,mip,mm,mn,ms,mv,mvi,pl,source/signature/227A8F8A9E0882B25E6647C07CA866A28E306524.6C66E9130EF8BE31C76553512C6D1EA0027CFCA9/key/cms1/cms_redirect/yes/mh/TU/mip/41.220.151.138/mm/42/mn/sn-hgn7rnll/ms/onc/mt/1677238372/mv/m/mvi/5/pl/24?cpn=jZsCqM57jFd2RkKa&file=file.mp4"
+            "audio":"https://rotana.net/?tv=live-kids"
           },
           {
             "text":"روتانا_كوميدي",
             "image":"https://rotana.net/triAssets/uploads/2020/11/comedy.png",
             "group-title":"Egypt",
-            "audio":"https://dai.google.com/linear/hls/pa/event/cH1Es-kjT9yxOW7P5ZUGTw/stream/ee07184f-932f-4715-bd3e-373f72687123:BRU/variant/4c65827b35e740303bd60662f344ada2/bandwidth/1496826.m3u8"
+            "audio":"https://rotana.net/?tv=live-comedy"
           },
           {
             "text":"LBC",
@@ -284,6 +284,6 @@
             "text":"روتانا_موسيقى",
             "image":"https://rotana.net/triAssets/uploads/2020/11/music.png",
             "group-title":"Egypt",
-            "audio":"https://dai.google.com/linear/hls/pa/event/zucIDa11STqipyr8-WPsTw/stream/5c6d2e0f-fd12-42f5-a28b-671558a00921:BRU/variant/215021ca12f2da341b681f3b879db09a/bandwidth/1537783.m3u8"
-          },                                                              
+            "audio":"https://rotana.net/?tv=live-music"
+          }                                                             
 ]}]}
