@@ -76,6 +76,12 @@
             "audio":"https://qatartv.akamaized.net/hls/live/2026573/qtv1/20220401T184419/master720p/01420/master720p_00703.ts"
           },
           {
+            "text":"2_قطر",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/QA_qatar_2.png",
+            "group-title":"Qatar",
+            "audio":"https://qatartv.akamaized.net/hls/live/2026573/qtv1/master480p.m3u8"
+          },
+          {
             "text":"الجزيرة",
             "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/QA_jazira.png",
             "group-title":"Qatar",
