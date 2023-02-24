@@ -4,8 +4,9 @@
     "numberOfChannels":1,
     "channels":[
           {
-            "text":"سميرة",
-            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/DZ_samira.png",
-            "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
+            "text":"RT_ara",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png",
+            "group-title":"Russia",
+            "audio":"https://rt-arb.rttv.com/dvr/rtarab/playlist_1600Kb.m3u8"
           }        
 ]}]}

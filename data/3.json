@@ -4,8 +4,9 @@
     "numberOfChannels":1,
     "channels":[
           {
-            "text":"سميرة",
-            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/DZ_samira.png",
-            "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
-          }        
+            "text":"Gulli",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_gulli.png",
+            "group-title":"France",
+            "audio":"https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/v2TM44t/index.m3u8"
+          }                  
 ]}]}

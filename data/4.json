@@ -4,8 +4,9 @@
     "numberOfChannels":1,
     "channels":[
           {
-            "text":"سميرة",
-            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/DZ_samira.png",
-            "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
-          }        
+            "text":"CGTN",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png",
+            "group-title":"China",
+            "audio":"https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
+          }
 ]}]}

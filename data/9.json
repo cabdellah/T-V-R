@@ -1,11 +1,72 @@
 {
     "data":[
     {"title":"portuguese",
-    "numberOfChannels":1,
+    "numberOfChannels":11,
     "channels":[
           {
-            "text":"سميرة",
-            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/DZ_samira.png",
-            "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
-          }        
+            "text":"Brasil_Central",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_tbc.png",
+            "group-title":"Brasil",
+            "audio":"https://tbc.zoeweb.tv/tbc/tbc/chunklist.m3u8"
+          },
+          {
+            "text":"TVE",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_tve.png",
+            "group-title":"Brasil",
+            "audio":"https://streaming.procergs.com.br:8443/tve/stve/chunklist_w1837585894.m3u8"
+          },
+          {
+            "text":"TV_Brasil",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_tvb.png",
+            "group-title":"Brasil",
+            "audio":"https://stream-05.dc3.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLvmWZsY2HRG8j3FNTqqowO77-DhhLsD96jKTT2vd1iXR)/dm/3/x82pp99/d/live-2.m3u8"
+          },
+          {
+            "text":"Com_Brasil",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_comb.png",
+            "group-title":"Brasil",
+            "audio":"https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w651670998.m3u8"
+          },
+          {
+            "text":"Tv_Gazeta",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_gazeta.png",
+            "group-title":"Brasil",
+            "audio":"https://stream-09.dc3.dailymotion.com/sec(OZ0ERGOH4oE-_Xr-zBQ5v7Fs9mwvYSz70zp_wFrcX2h4CJHYDcs10EO3UKh2hrGY)/dm/3/x89qors/d/live-2.m3u8"
+          },
+          {
+            "text":"CNN_Brasil",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_cnn_b.png",
+            "group-title":"Brasil",
+            "audio":"https://youtu.be/dCP-klyBPHc"
+          },
+          {
+            "text":"TVe_eParana",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_eParana.png",
+            "group-title":"Brasil",
+            "audio":"https://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8"
+          },
+          {
+            "text":"TV_Aratu",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_aratu.png",
+            "group-title":"Brasil",
+            "audio":"https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/chunklist.m3u8"
+          },
+          {
+            "text":"Canal_38",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_canal38.png",
+            "group-title":"Brasil",
+            "audio":"https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/chunklist.m3u8"
+          },
+          {
+            "text":"Agromix",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_agromix.png",
+            "group-title":"Brasil",
+            "audio":"https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1863399200.m3u8"
+          },
+          {
+            "text":"TV_Nova",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/BR_nova.png",
+            "group-title":"Brasil",
+            "audio":"https://live.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8"
+          }                  
 ]}]}
