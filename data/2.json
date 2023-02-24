@@ -1,7 +1,7 @@
 {
     "data":[
     {"title":"arabic",
-    "numberOfChannels":30,
+    "numberOfChannels":39,
     "channels":[      
           {
             "text":"أبوظبي",
@@ -69,6 +69,60 @@
             "group-title":"Algeria",
             "audio":"https://shls-live-ak.akamaized.net/out/v1/2daff8b433344d659bd5079224afc3ab/index_1.m3u8"
           },
+          {
+            "text":"1_قطر",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/QA_qatar_1.png",
+            "group-title":"Qatar",
+            "audio":"https://qatartv.akamaized.net/hls/live/2026573/qtv1/20220401T184419/master720p/01420/master720p_00703.ts"
+          },
+          {
+            "text":"الجزيرة",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/QA_jazira.png",
+            "group-title":"Qatar",
+            "audio":"https://live-hls-web-aja.getaj.net/AJA/04.m3u8"
+          },                  
+          {
+            "text":"الجزيرة_مباشر",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/QA_jazira_live.png",
+            "group-title":"Qatar",
+            "audio":"https://rr2---sn-qwx11t-j1al.googlevideo.com/videoplayback?expire=1677257427&ei=c5b4Y_qeJ93GmLAP0Z6hwA4&ip=41.220.151.138&id=eksOMqVMINo.2&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=sm&mm=44%2C29&mn=sn-qwx11t-j1al%2Csn-hgn7rnee&ms=lva%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=216250&spc=H3gIhv7IuWWlvMRyISsjiztHrJLk5zEti3uikgCOmnYLDrpy9eIlqrOAkvrk6GA&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=hfzhYw7REo4J9uBUpnagO0ML&gir=yes&mt=1677235486&fvip=1&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=br83Drfhh7fX6IqC&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhALnrCO46hSSPu-VdlliIdewBz79-lCwJJyo5JP4RjQwgAiB14-ymgEbPq-_uKZbKktVGvFPXW5DdOGs6IqsmPDGgTw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgdgMoiuEg8qSv0MriZetCloPtK3H6Ta52IeVlbHERv78CIQCMv2f6Jhp0n3nKa5crNtkwbz2p3Q4_of0Xg37zSFnkbQ%3D%3D"
+          },                  
+          {
+            "text":"الجزيرة_الوثائقية",
+            "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/QA_jazira_douc.png",
+            "group-title":"Qatar",
+            "audio":"https://rr1---sn-qwx11t-j1as.googlevideo.com/videoplayback?expire=1677257518&ei=zpb4Y9ObH5DcxwKExLqQAQ&ip=41.220.151.138&id=TiPYdMXt_XI.3&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=oM&mm=44%2C29&mn=sn-qwx11t-j1as%2Csn-hgn7rn7k&ms=lva%2Crdu&mv=m&mvi=1&pl=24&gcr=dz&initcwndbps=216250&spc=H3gIhms3txsKRx8fySfZEe8xdpfoYEqM3xArrJF9USW0toyq-tbrOb0D-vogto4&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=lZ13NyFZYbO85Zp8nwwRA3QL&gir=yes&mt=1677235725&fvip=3&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=iybo1SuTsoumNUlh&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAOaXX9D3h3XNDnmSbFsqPOb44h4U8H_GvIlQJvtjgMQKAiAqb-Ow6cJ_Gw0H-1LzmkPF9ZWbEGOPQpnE_RJuQ9TEDQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJsY7XozM-gySGcLJnxErAD4Xh-Pho2_7I-pJguzJwOXAiEAwe3uxSsowbmxPhs4Jmmq5OhncXHJ9bQarptQ5hDQpmM%3D"
+          },                  
+          {
+            "text":"alkass_one",
+            "image":"https://3.bp.blogspot.com/-rjiNVZrhnq0/Ws4HkR2OOwI/AAAAAAAAAPE/jcGAxXWb9b4L-FVQqbOYgx4v9fp1WeYiwCLcBGAs/s1600/2.png",
+            "group-title":"Qatar",
+            "audio":"https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass1ctfsd/hdntl=exp=1677322596~acl=%2f*~data=hdntl~hmac=b188e55fa05349f5dad122b5af24194ce0c327c2224aff8bc695ad81169b9d6b/master540.m3u8"
+          },                  
+          {
+            "text":"alkass_two",
+            "image":"https://1.bp.blogspot.com/-53EdwxRfTKM/X_CoKqJt3DI/AAAAAAAAAQU/g2T6G69JAC8XOE3o297kirR0AVHJcJQMwCLcBGAsYHQ/s218/2.png",
+            "group-title":"Qatar",
+            "audio":"https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass2nbcq/hdntl=exp=1677322730~acl=%2f*~data=hdntl~hmac=fc359ef58f7a47850caea196cfdbd4b2b69ee45fead66a774228bb91ee5bf569/master540.m3u8"
+          },                  
+          {
+            "text":"alkass_three",
+            "image":"https://www.elkhadra.com/wp-content/uploads/2019/06/al-kass-3hd-live.jpg",
+            "group-title":"Qatar",
+            "audio":"https://liveakgrns.alkassdigital.net/hls/live/2097037/Alkass3actfsdc/hdntl=exp=1677322748~acl=%2f*~data=hdntl~hmac=81dce24aefdbdc509c8d1d5df785d458b8f642d81e512bca71631116317b5dd0/master540.m3u8"
+          },                  
+          {
+            "text":"alkass_four",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfKEWo_ZbDHi6_i25jAhKaVfdTpfikuagtZhfF75gNAOtii1s83sNwZrevc2ZR-YE-lVg&usqp=CAU",
+            "group-title":"Qatar",
+            "audio":"https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/hdntl=exp=1677322783~acl=%2f*~data=hdntl~hmac=f3fb7705fd3fbec7936ff789eb8d9661cb353f6b934a99d41caf293ea52ed858/chunklist_b2128000_sleng.m3u8"
+          },                  
+          {
+            "text":"alkass_five",
+            "image":"https://i0.wp.com/www.millereponses.com/wp-content/uploads/2018/11/alkass-five-frequence-badr.png",
+            "group-title":"Qatar",
+            "audio":"https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/hdntl=exp=1677322862~acl=%2f*~data=hdntl~hmac=bd5c4c2e1c9dc90a94df24e0cf3dce82e85ffdbbeaeea9a5a4054de0c7ef170c/chunklist_b2128000_sleng.m3u8"
+          },                  
           {
             "text":"الأولى",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/MA_elaoula.png",
@@ -176,7 +230,7 @@
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_sbc.png",
             "group-title":"Arabie_Saoudite",
             "audio":"https://cllive.itworkscdn.net/sbclive/token=nva=1677247478~dirs=1~hash=06ae25e34595d24b06f16/sbc.smil/sbc_480p_chunks_dvr.m3u8"
-          },
+          },                    
           {
             "text":"الأردني",
             "image":"https://upload.wikimedia.org/wikipedia/ar/9/9d/%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A.png",
