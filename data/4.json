@@ -1,15 +1,15 @@
 {
-    "data":[
-    {"title":"chinese",
-    "numberOfChannels":1,
-    "channels":[
-          {
-            "text":"CGTN",
-            "image":"https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png",
-            "group-title":"China",
-            "audio":"https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
-          }
-        ]
-      }
-    ]
+  "data":[
+    { "title":"chinese",
+      "numberOfStations":1,
+      "stations":[
+        {
+          "text":"CGTN",
+          "image":"https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png",
+          "group-title":"China",
+          "audio":"https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
+        }
+      ]
+    }
+  ]
 }
