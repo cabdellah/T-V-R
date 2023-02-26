@@ -1,8 +1,8 @@
 {
-    "data":[
-    {"title":"french",
-    "numberOfChannels":1,
-    "channels":[
+  "radioData":[
+  {"title":"french",
+    "numberOfStations":2,
+    "stations":[
           {
             "text":"Gulli",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_gulli.png",
