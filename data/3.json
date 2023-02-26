@@ -1,7 +1,7 @@
 {
   "radioData":[
   {"title":"french",
-    "numberOfStations":1,
+    "numberOfStations":2,
     "stations":[
         {
           "text":"Gulli",
