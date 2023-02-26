@@ -1,0 +1,30 @@
+{
+    "tvData":[
+    {"title":"series",
+    "numberOfChannels":4,
+    "channels":[
+      {
+        "text":"أبوظبي",
+        "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_abudhabi.png",
+        "group-title":"Emirats_Arabes",
+        "audio":"https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
+      },
+      {
+        "text":"الإمارات",
+        "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_emarat.png",
+        "group-title":"Emirats_Arabes",
+        "audio":"https://admdn3ta.cdn.mgmlcdn.com/emarat/smil:emarat.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
+      },
+      {
+        "text":"ذكريات",
+        "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/SA_dikraiat.png",
+        "group-title":"Arabie_Saoudite",
+        "audio":"https://cllive.itworkscdn.net/zikrayatlive/token=nva=1677247254~dirs=1~hash=0f5e616c7e5aa0658540e/zikrayat.smil/zikrayat_480p_chunks_dvr.m3u8"
+      },
+      {
+        "text":"روتانا_خليجي",
+        "image":"https://rotana.net/triAssets/uploads/2020/11/khalijiat.png",
+        "group-title":"Egypt",
+        "audio":"https://rr1---sn-qwx11t-j1al.googlevideo.com/videoplayback?expire=1677267806&ei=3qL4Y9PqPOLdmwf7nTQ&ip=41.220.151.138&id=ba0548b2434cab5d&itag=22&source=youtube&requiressl=yes&mh=xk&mm=31&mn=sn-qwx11t-j1al&ms=au&mv=m&mvi=1&pl=24&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=15.069&lmt=1676853477418326&mt=1677238390&txp=5532434&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgRKnw6FQORjkuJjK9N0AUBjMm8ZtRF43Eut2RPiAev-sCIQDSEDGW-UfH5nun-26mCssCAvjMVYC7pNeM10hRj6eXwg==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgVD6gb0cDiX65vaLD2Mjp-wgsJ29--y3fvZx74wzUyKcCIQDOTrO-g3rVVtc98Q1EfRgTkNQFaNJZM5p6-bDH6ib9RA==&cpn=rm9zdeaTW-6aWST8"
+      }             
+]}]}

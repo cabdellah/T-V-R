@@ -1,0 +1,12 @@
+{
+    "tvData":[
+    {"title":"movies",
+    "numberOfChannels":1,
+    "channels":[
+      {
+        "text":"روتانا_سينما",
+        "image":"https://rotana.net/triAssets/uploads/2020/11/cinema.png",
+        "group-title":"Egypt",
+        "audio":"https://dai.google.com/linear/hls/pa/event/TTfW9QXGRVCBzHoEKgyrWA/stream/880db548-4e3d-40c0-ae89-6eaf7d934d61:GRQ/variant/f4da4a7b7c5d0c2159ccb185452139d0/bandwidth/1500928.m3u8"
+      }      
+]}]}

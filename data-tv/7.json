@@ -1,0 +1,12 @@
+{
+    "tvData":[
+    {"title":"russian",
+    "numberOfChannels":1,
+    "channels":[
+          {
+            "text":"RT_ara",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/200px-Russia-today-logo.svg.png",
+            "group-title":"Russia",
+            "audio":"https://rt-arb.rttv.com/dvr/rtarab/playlist_1600Kb.m3u8"
+          }        
+]}]}

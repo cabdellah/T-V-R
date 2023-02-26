@@ -1,0 +1,30 @@
+{
+    "radioData":[
+    {"title":"documentary",
+    "numberOfChannels":4,
+    "channels":[
+      {
+        "text":"DW",
+        "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/UE_dw_arabia.png",
+        "group-title":"Emirats_Arabes",
+        "audio":"https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream03/streamPlaylist.m3u8"
+      },                  
+      {
+        "text":"الجزيرة_الوثائقية",
+        "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/QA_jazira_douc.png",
+        "group-title":"Qatar",
+        "audio":"https://rr1---sn-qwx11t-j1as.googlevideo.com/videoplayback?expire=1677257518&ei=zpb4Y9ObH5DcxwKExLqQAQ&ip=41.220.151.138&id=TiPYdMXt_XI.3&itag=135&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=yt_live_broadcast&requiressl=yes&mh=oM&mm=44%2C29&mn=sn-qwx11t-j1as%2Csn-hgn7rn7k&ms=lva%2Crdu&mv=m&mvi=1&pl=24&gcr=dz&initcwndbps=216250&spc=H3gIhms3txsKRx8fySfZEe8xdpfoYEqM3xArrJF9USW0toyq-tbrOb0D-vogto4&vprv=1&live=1&hang=1&noclen=1&mime=video%2Fmp4&ns=lZ13NyFZYbO85Zp8nwwRA3QL&gir=yes&mt=1677235725&fvip=3&keepalive=yes&fexp=24007246&c=WEB_EMBEDDED_PLAYER&n=iybo1SuTsoumNUlh&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cgcr%2Cspc%2Cvprv%2Clive%2Chang%2Cnoclen%2Cmime%2Cns%2Cgir&sig=AOq0QJ8wRQIhAOaXX9D3h3XNDnmSbFsqPOb44h4U8H_GvIlQJvtjgMQKAiAqb-Ow6cJ_Gw0H-1LzmkPF9ZWbEGOPQpnE_RJuQ9TEDQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJsY7XozM-gySGcLJnxErAD4Xh-Pho2_7I-pJguzJwOXAiEAwe3uxSsowbmxPhs4Jmmq5OhncXHJ9bQarptQ5hDQpmM%3D"
+      },
+      {
+        "text":"ناسيونال_جيوغرافيك",
+        "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_nat-geo.png",
+        "group-title":"Emirats_Arabes",
+        "audio":"https://admdn2ta.cdn.mgmlcdn.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
+      },
+      {
+        "text":"DW",
+        "image":"https://i.imgur.com/f4gwdYD.png",
+        "group-title":"Germany",
+        "audio":"https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8"
+      }              
+]}]}
