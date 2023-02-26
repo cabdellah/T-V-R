@@ -1,8 +1,8 @@
 {
-    "radioData":[
+    "data":[
     {"title":"arabic",
     "numberOfChannels":47,
-    "stations":[      
+    "channels":[      
           {
             "text":"أبوظبي",
             "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/AE_abudhabi.png",

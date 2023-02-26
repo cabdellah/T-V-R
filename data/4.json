@@ -1,21 +1,12 @@
 {
-  "tvData":[
-  {"title":"french",
-    "numberOfChannels":2,
+    "data":[
+    {"title":"chinese",
+    "numberOfChannels":1,
     "channels":[
-        {
-          "text":"Gulli",
-          "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_gulli.png",
-          "group-title":"France",
-          "audio":"https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/v2TM44t/index.m3u8"
-        },
-        {
-          "text":"TV6",
-          "image":"https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",
-          "group-title":"Malaysia",
-          "audio":"https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b1296000_slENG.m3u8?id=6"
-        }        
-      ]
-    }
-  ]
-}
+          {
+            "text":"CGTN",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png",
+            "group-title":"China",
+            "audio":"https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
+          }
+]}]}

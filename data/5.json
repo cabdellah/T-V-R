@@ -1,40 +1,36 @@
 {
-  "radioData":[
-  {"title":"french",
-    "numberOfStations":2,
-    "stations":[
-        {
-          "text":"Gulli",
-          "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_gulli.png",
-          "group-title":"France",
-          "audio":"https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/v2TM44t/index.m3u8"
-        },
-        {
-          "text":"TV6",
-          "image":"https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",
-          "group-title":"Malaysia",
-          "audio":"https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b1296000_slENG.m3u8?id=6"
-        }        
-      ]
-    }
-  ],
-  "tvData":[
-    {"title":"french",
-      "numberOfChannels":2,
-      "channels":[
+    "data":[
+    {"title":"spanish",
+    "numberOfChannels":5,
+    "channels":[
           {
-            "text":"Gulli",
-            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/FR_gulli.png",
-            "group-title":"France",
-            "audio":"https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/v2TM44t/index.m3u8"
+            "text":"AZTV_Anime",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_aztv.png",
+            "group-title":"Espagne",
+            "audio":"https://azxtv.com/hls/stream.m3u8"
           },
           {
-            "text":"TV6",
-            "image":"https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg",
-            "group-title":"Malaysia",
-            "audio":"https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b1296000_slENG.m3u8?id=6"
-          }        
-        ]
-      }
-    ]  
-}
+            "text":"TVE",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_tve.png",
+            "group-title":"Espagne",
+            "audio":"https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_576.m3u8"
+          },
+          {
+            "text":"TVE_24h",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_24h.png",
+            "group-title":"Espagne",
+            "audio":"https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8"
+          },
+          {
+            "text":"UHD_Travel",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_uhd_travel.png",
+            "group-title":"Espagne",
+            "audio":"https://livelist01.yowi.tv/lista/f76628c633e492853b8e4d98f8eb1d129d2e6771/index-f4-v1-a1.m3u8"
+          },
+          {
+            "text":"HQM_Spanish",
+            "image":"https://raw.githubusercontent.com/cabdellah/CA-RaTV/main/images/TV/ES_hqm_spanish.png",
+            "group-title":"Espagne",
+            "audio":"https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/index-f3-v1-a1.m3u8"
+          }                  
+]}]}

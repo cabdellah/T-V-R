@@ -1,8 +1,8 @@
 {
-    "radioData":[
+    "data":[
     {"title":"english",
     "numberOfChannels":6,
-    "stations":[
+    "channels":[
           {
             "text":"TCS",
             "image":"https://raw.githubusercontent.com/cabdellah/T-V-R/main/tv/US_tsc.png",
